@@ -25,7 +25,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"http://localhost:5173",  // jo bhi req frontend se aa rhi hai usko entertain kro
+		origin:["http://localhost:5173","https://studynotionnn.netlify.app"] , // jo bhi req frontend se aa rhi hai usko entertain kro
 		credentials:true,
 	})
 )
