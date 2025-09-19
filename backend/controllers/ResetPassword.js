@@ -36,7 +36,7 @@ exports.resetPasswordToken = async (req,res)=>{
         );
 
         //create url
-        const url = `studynotionnn.netlify.app/update-password/${token}` // har user ke alg alg reset paswd wali link open hogi
+        const url = `https://studynotionnn.netlify.app/update-password/${token}` // har user ke alg alg reset paswd wali link open hogi
 
         // send mail containing the url
         await mailSender(email,
