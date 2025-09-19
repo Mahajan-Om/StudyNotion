@@ -100,8 +100,8 @@ REST API with JSON exchange and standard HTTP methods (GET, POST, PUT, DELETE).
 
 ## ☁️ Deployment
 
-* **Frontend:** [Vercel](https://vercel.com)
-* **Backend:** [Render](https://render.com) / [Railway](https://railway.app)
+* **Frontend:** [Netlify](https://www.netlify.com/)
+* **Backend:** [Vercel](https://vercel.com)
 * **Database:** [MongoDB Atlas](https://www.mongodb.com/atlas)
 * **Media Storage:** [Cloudinary](https://cloudinary.com)
 
