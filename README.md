@@ -1,8 +1,9 @@
 
-
 # StudyNotion 🎓
 
 *A Full-Stack Ed-Tech Platform built with MERN Stack*
+
+## Live Link : https://studynotionnn.netlify.app/
 
 ## 🚀 Project Overview
 
